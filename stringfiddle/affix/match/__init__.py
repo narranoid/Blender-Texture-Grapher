@@ -1,0 +1,6 @@
+from .affix_matcher import AffixMatcher
+from .bitdepth_affix_matcher import BitdepthAffixMatcher
+from .variance_affix_matcher import VarianceAffixMatcher
+from .score_affix_matcher import ScoreAffixMatcher
+from .dynamic_score_affix_matcher import DynamicScoreAffixMatcher
+from .arithmetic_score_affix_matcher import ArithmeticScoreAffixMatcher
