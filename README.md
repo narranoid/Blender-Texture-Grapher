@@ -53,3 +53,11 @@ Automates the process of connecting nodes by detecting related sockets and conne
 **
 
 **![](https://img.itch.zone/aW1nLzExOTQ3MDM5LmdpZg==/original/xIMbl6.gif)**
+
+
+## Project Author
+[**Florian Friedrich (@narranoid)**](https://github.com/narranoid)
+Game Designer and Digital Media Nerd.
+* [Twitter](https://twitter.com/narranoid)
+* [Mastodon](https://mastodon.gamedev.place/@narranoid)
+* [LinkedIn](https://www.linkedin.com/in/friedrich-florian/)
